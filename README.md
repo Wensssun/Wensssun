@@ -23,4 +23,4 @@ Python · pandas · scikit-learn · XGBoost · SQL · Excel · LLM APIs
 
 ### 📫 Contact
 <!-- Replace with your own links -->
-[LinkedIn](https://www.linkedin.com/in/your-profile) · Email: your.email@example.com
+[LinkedIn](www.linkedin.com/in/wen-s-b28962255) · Email: wensssun0824@outlook.com
